@@ -9,6 +9,14 @@ Purpose:  Update the previous version of the game to include a class that handle
 ### Requirements:<br/>
 * Have python installed [Here](https://www.python.org/) (right for new tab)
 
+### Running the program
+1. Open a terminal(linux / Mac) or cmd(windows) prompt
+2. Optional - Move it to documents folder
+3. Navigate to the folder with the py script
+4. Type, "python guessNumberV2.py"
+5. Hit "Enter"
+6. Enjoy
+
 ### Updates
 * Created a class to handle all the heavy lifting
 * Added a reset method
